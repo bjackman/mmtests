@@ -166,7 +166,7 @@ if [ -d $SCRIPTDIR/work/sources/ ]; then
 fi
 
 # required in common.sh
-install-depends gawk
+install-depends gawk procps
 
 . $SCRIPTDIR/shellpacks/common.sh
 . $SCRIPTDIR/shellpacks/common-config.sh
