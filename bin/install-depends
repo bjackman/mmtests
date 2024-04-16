@@ -65,6 +65,7 @@ my %package_map = (
 	"debian::perl-GD"			=> "libgd-perl",
 	"debian::sysvinit-tools"		=> "sysvinit-utils",
 	"debian::gettext-runtime"		=> "gettext",
+	"debian::pcre3-devel"			=> "libpcre3-dev",
 
 	"redhat::blas-devel"			=> "openblas-devel",
 	"redhat::blas-devel-static"		=> "openblas-static",
