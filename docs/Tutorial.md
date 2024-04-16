@@ -16,7 +16,7 @@ git clone https://github.com/gormanm/mmtests.git
 Pick a config and start a run. For instance, let's run a Redis benchmark.
 
 ```
-sudo ./run-mmtests.sh --config configs/config-memdb-redis-small BASELINE
+sudo ./run-mmtests.sh --config configs/config-memdb-redis-memtier-small BASELINE
 ```
 
 ### Comparison Run
